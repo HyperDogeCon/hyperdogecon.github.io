@@ -55,4 +55,4 @@ async function update(){
     document.getElementById("total_value").innerHTML = toINRformat(total_value);
 }
 
-setInterval(update(), 30 * 1000)
+setInterval(update(), 15 * 1000)
