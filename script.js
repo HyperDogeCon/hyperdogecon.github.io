@@ -37,7 +37,7 @@ async function dogeUpdate(){
 }
 
 async function hyperUpdate() {
-    const totalCoins = 261298.683429;
+    const totalCoins = 261541.6228875;
     var single_value = 0;
     
     const URL = "https://api.coingecko.com/api/v3/coins/hyperchain-x/";
